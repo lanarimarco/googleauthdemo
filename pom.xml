@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.rds_software</groupId>
-    <artifactId>GoogeAuthTutorial</artifactId>
+    <artifactId>googleauthdemo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>GoogeAuthTutorial</name>
+    <name>googleauthdemo</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
